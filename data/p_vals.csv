@@ -1,0 +1,13 @@
+;Feature_1;Feature_2;p_value
+0;Gold;CrudeOil;0.0
+1;Gold;S&P500;0.0
+2;Gold;FTSE250;0.0
+3;CrudeOil;Gold;0.0
+4;CrudeOil;S&P500;0.0
+5;CrudeOil;FTSE250;0.0
+6;S&P500;Gold;0.0
+7;S&P500;CrudeOil;0.0
+8;S&P500;FTSE250;0.0
+9;FTSE250;Gold;0.0
+10;FTSE250;CrudeOil;0.0
+11;FTSE250;S&P500;0.0
